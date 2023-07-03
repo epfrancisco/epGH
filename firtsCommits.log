@@ -1,0 +1,92 @@
+commit 2cb2fa10ea8e81122b64d61bbda1a929c1f0a5fb
+Author: Francisco Escobar <franciscoescobar27450978@gmail.com>
+Date:   Sun Jul 2 19:23:40 2023 -0500
+
+    Agregando dos parrafos lorem
+
+commit d72e9f338ce6160a0c16b7f50040e4ec8a447ba9
+Merge: 26f7da2 dcf4f5b
+Author: Francisco Escobar <franciscoescobar27450978@gmail.com>
+Date:   Sun Jul 2 19:21:38 2023 -0500
+
+    Resolviendo conflicto de ingresar dia 7 a la lista
+
+commit 26f7da27ce9bd48ec932b741d88ea18b1bb4b250
+Author: Francisco Escobar <franciscoescobar27450978@gmail.com>
+Date:   Sun Jul 2 19:10:02 2023 -0500
+
+    Agregando listas hasta 7
+
+commit dcf4f5b6c536ed604b4d56aec2895ff9b20dcd6a
+Author: Francisco Escobar <franciscoescobar27450978@gmail.com>
+Date:   Sun Jul 2 19:10:02 2023 -0500
+
+    agregando lista dias
+
+commit 5df356e78c999b7c1cb06251d40fb660f75c4631
+Merge: a649806 94a94d6
+Author: Francisco Escobar <franciscoescobar27450978@gmail.com>
+Date:   Sun Jul 2 19:06:15 2023 -0500
+
+    resolviendo primer conficto en merge
+
+commit 94a94d6cc41ca924b60e708ff5ba6a51f5945848
+Author: Francisco Escobar <franciscoescobar27450978@gmail.com>
+Date:   Sun Jul 2 19:02:22 2023 -0500
+
+    Agregando archivo .js a .html
+
+commit a649806a459431db2971030dad513231e3019bc9
+Author: Francisco Escobar <franciscoescobar27450978@gmail.com>
+Date:   Sun Jul 2 18:59:05 2023 -0500
+
+    Agregando style.css a index.html
+
+commit a24ac8a1f2519f095f64ceff0ba6c80052447a78
+Merge: 7dc7e8b 59f1b08
+Author: Francisco Escobar <franciscoescobar27450978@gmail.com>
+Date:   Sun Jul 2 18:48:21 2023 -0500
+
+    Merge branch 'js'
+
+commit 59f1b08f635f1680e72b6568ee19e94fd477fb5c
+Author: Francisco Escobar <franciscoescobar27450978@gmail.com>
+Date:   Sun Jul 2 18:45:10 2023 -0500
+
+    Agregando arch js
+
+commit 7dc7e8b70d8eb9b0381fc3bc8222f6fb3c20359d
+Author: Francisco Escobar <franciscoescobar27450978@gmail.com>
+Date:   Sun Jul 2 18:39:27 2023 -0500
+
+    Creando style.css
+
+commit 7a3566a168364491b9a725e9bda34af0b934dd10
+Author: Francisco Escobar <franciscoescobar27450978@gmail.com>
+Date:   Sun Jul 2 18:35:04 2023 -0500
+
+    creando arch index.html
+
+commit e0244a235ca8b572ee9dc9fe8ed4b4783a016081
+Author: Francisco Escobar <franciscoescobar27450978@gmail.com>
+Date:   Sun Jul 2 17:52:25 2023 -0500
+
+    Ignorando archivos
+
+commit d41b557bc948b7e98a226a4b4ca40763e9094315
+Author: epfrancisco <50244819+epfrancisco@users.noreply.github.com>
+Date:   Sun Jul 2 17:04:57 2023 -0500
+
+    Creando licencia
+
+commit d5e7cf8f0854d119c5d05cdff7336c082bfec8dd
+Author: Francisco Escobar <franciscoescobar27450978@gmail.com>
+Date:   Sun Jul 2 16:55:28 2023 -0500
+
+    Agregando contenido al README
+
+commit ff7c5090bc2deb4f53a99f8b18d771550dbe4ba0
+Author: Francisco Escobar <franciscoescobar27450978@gmail.com>
+Date:   Sun Jul 2 16:45:53 2023 -0500
+
+    Primer commit
